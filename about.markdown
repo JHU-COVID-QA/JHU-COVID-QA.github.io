@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+We are a team of Johns Hopkins University Computer Science and Public Health researchers spreading verified information during COVID-19.
+Our effort is led by [João Sedoc](https://sites.google.com/site/jsedoc/) (Computer Science) and [Smisha Agarwal](https://www.jhsph.edu/faculty/directory/profile/2943/smisha-agarwal) (Public Health)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
