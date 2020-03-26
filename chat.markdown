@@ -9,6 +9,6 @@ If you'd like to open the bot in separate tab, click <a href="https://jhu-covid-
 
 <iframe
   src="https://jhu-covid-qa.github.io/chatbot/"
-  style="width:100%; height:700px;"
+  style="width:100%; height:600px;"
   frameborder="0"
 ></iframe>
