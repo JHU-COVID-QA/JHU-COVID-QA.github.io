@@ -10,4 +10,5 @@ If you'd like to open the bot in separate tab, click <a href="https://arpansahoo
 <iframe
   src="https://arpansahoo.github.io/jhu-covid19bot-web/"
   style="width:100%; height:500px;"
+  frameborder="0"
 ></iframe>
