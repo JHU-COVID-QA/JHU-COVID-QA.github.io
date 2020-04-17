@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 notes
+jhu-covid19bot-web/dist/*
+jhu-covid19bot-web/dist
+jhu-covid19bot-web/node_modules
+jhu-covid19bot-web/package-lock.json
