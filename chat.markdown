@@ -4,8 +4,9 @@ title: Chatbot
 permalink: /chat/
 ---
 
-We are developing a chatbot that can answer COVID-19 related questions. Try it out!
-If you'd like to open the bot in separate tab, click <a href="https://jhu-covid-qa.github.io/chatbot/" target="_blank">here</a>.
+We are developing a chatbot that can answer COVID-19 related questions. 
+
+The chatbot is still in early stages but feel free to chat with it in the meanwhile.
 
 <iframe
   src="https://jhu-covid-qa.github.io/chatbot/"
